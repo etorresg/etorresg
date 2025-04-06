@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning data visualization, data analytics, and database management.<br>🎯 Goal: To strengthen my understanding and implementation of data structures and algorithms to solve real-world problems effectively<br>📫 How to reach me contacteduardotg@gmail.com<br>👨‍💻 Connect with me www.linkedin.com/in/eduardo-tg<br>💞️ I’m looking a full-time positions beginning summer 2025!<br>🎲 Fun fact: I was born on Friday the 13th!</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning data visualization, data analytics, and database management.<br>🎯 Current Goal: Building hands-on data analytics projects using Python, SQL, and visualization libraries to analyze real-world datasets, to derive and deliver easily-digestible insights .<br>📫 How to reach me contacteduardotg@gmail.com<br>👨‍💻 Connect with me www.linkedin.com/in/eduardo-tg<br>💞️ I’m looking a full-time positions beginning summer 2025!<br>🎲 Fun fact: I was born on Friday the 13th!</p>
 
 ###
 
