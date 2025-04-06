@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eduardo Torres-Garcia and I'm an aspiring Software Developer from Reading, PA!</p>
+<p align="left">My name is Eduardo Torres-Garcia and I'm an aspiring Data Analyst in Philadelphia, PA!</p>
 
 ###
 
